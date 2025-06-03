@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yilver Rivera
 
-<!--
-**RennfahrerU/RennfahrerU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I am a trainee developer from [Colombia]()
 
-Here are some ideas to get you started:
+* My main interest is data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I am about to finish my professional career.
+
+* I have high expectations for my working life and want to absorb as much knowledge as I can to become better every day at what I love to do.
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yilver-rivera/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RennfahrerU&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RennfahrerU&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
